@@ -1,0 +1,33 @@
+{
+  "name": "worlddata",
+  "version": "1.0.0",
+  "description": "World data visualized",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agee6/worlddata.git"
+  },
+  "keywords": [
+    "world",
+    "data",
+    "data",
+    "visualization"
+  ],
+  "author": "Goldsten Silver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agee6/worlddata/issues"
+  },
+  "homepage": "https://github.com/agee6/worlddata#readme",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
