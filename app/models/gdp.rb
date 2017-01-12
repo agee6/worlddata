@@ -1,0 +1,2 @@
+class Gdp < ApplicationRecord
+end
